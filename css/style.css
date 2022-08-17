@@ -200,7 +200,7 @@ main {
 
 .estatistica:nth-child(2n) .estatistica-titulo {
     order: 2;
-    text-align: right;
+    text-align: right
 }
 
 .estatistica:nth-child(2n) .estatistica-valor {
